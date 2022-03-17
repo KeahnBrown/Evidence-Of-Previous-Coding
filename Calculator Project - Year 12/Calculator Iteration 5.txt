@@ -1,0 +1,5 @@
+The brackets previously were showing multiple '*' symbols between each other in the formula text
+making the overall visual representation of the formula un pleasing and inaccurate, although the
+function was able to still be calculated correctly in this format. This iteration fixes this issue
+and makes it so when and open bracket is next to an open bracket it doesnt have a multiplication symbol
+between the two brackets

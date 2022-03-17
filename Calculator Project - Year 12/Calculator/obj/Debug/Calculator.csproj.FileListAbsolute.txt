@@ -1,0 +1,377 @@
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Analytics.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Analytics.Real.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Exversion.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Mathematics.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\NRTE.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Physics.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\WpfMath.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Analytics.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Analytics.Real.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Exversion.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Mathematics.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\NRTE.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Physics.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Window1.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Window1.baml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Analytics.dll
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Analytics.Real.dll
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Exversion.dll
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Mathematics.dll
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\NRTE.dll
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Physics.dll
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\WpfMath.dll
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Analytics.xml
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Analytics.Real.xml
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Exversion.xml
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Mathematics.xml
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\NRTE.xml
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Physics.xml
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Window1.g.cs
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Window1.baml
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\keahnbrown.STUDENTS.001\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Analytics.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Analytics.Real.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Exversion.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Mathematics.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\NRTE.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Physics.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\WpfMath.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Analytics.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Analytics.Real.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Exversion.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Mathematics.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\NRTE.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\bin\Debug\Physics.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Window1.g.cs
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Window1.baml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\bin\Debug\Calculator.exe
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\bin\Debug\Calculator.pdb
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\bin\Debug\Analytics.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\bin\Debug\Analytics.Real.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\bin\Debug\Exversion.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\bin\Debug\Mathematics.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\bin\Debug\NRTE.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\bin\Debug\Physics.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\bin\Debug\WpfMath.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\bin\Debug\Analytics.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\bin\Debug\Analytics.Real.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\bin\Debug\Exversion.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\bin\Debug\Mathematics.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\bin\Debug\NRTE.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\bin\Debug\Physics.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\obj\Debug\Window1.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\obj\Debug\App.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\obj\Debug\MainWindow.baml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\obj\Debug\Window1.baml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\obj\Debug\Calculator.exe
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 2\Calculator\obj\Debug\Calculator.pdb
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Calculator.exe
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Calculator.pdb
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Analytics.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Analytics.Real.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Exversion.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Mathematics.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\NRTE.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Physics.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\WpfMath.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Analytics.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Analytics.Real.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Exversion.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Mathematics.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\NRTE.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Physics.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Window1.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\App.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\MainWindow.baml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Window1.baml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator.exe
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator.pdb
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Calculator.exe
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Calculator.pdb
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Analytics.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Analytics.Real.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Exversion.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Mathematics.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\NRTE.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Physics.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\WpfMath.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Analytics.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Analytics.Real.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Exversion.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Mathematics.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\NRTE.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\bin\Debug\Physics.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Window1.g.cs
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\App.g.cs
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\MainWindow.baml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Window1.baml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator.exe
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 4\Calculator\obj\Debug\Calculator.pdb
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Calculator.exe
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Calculator.pdb
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Analytics.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Analytics.Real.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Exversion.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Mathematics.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\NRTE.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Physics.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\WpfMath.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Analytics.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Analytics.Real.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Exversion.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Mathematics.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\NRTE.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Physics.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Window1.g.cs
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\App.g.cs
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\MainWindow.baml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Window1.baml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator.exe
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator.pdb
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Graph.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Graph.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Window1.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\App.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator.exe
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator.pdb
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Calculator.exe
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Calculator.pdb
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Analytics.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Analytics.Real.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Exversion.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Mathematics.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\NRTE.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Physics.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\WpfMath.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Analytics.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Analytics.Real.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Exversion.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Mathematics.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\NRTE.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\bin\Debug\Physics.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Graph.baml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\MainWindow.baml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Window1.baml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 5\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Calculator.exe
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Calculator.pdb
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Analytics.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Analytics.Real.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Exversion.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\LiveCharts.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Mathematics.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\NRTE.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Physics.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\WpfMath.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Analytics.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Analytics.Real.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Exversion.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\LiveCharts.pdb
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\LiveCharts.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Mathematics.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\NRTE.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Physics.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Window1.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\App.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\MainWindow.baml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Window1.baml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.exe
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.pdb
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.GraphFunction.resources
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Graph.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Graph.baml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Window2.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Window2.baml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Calculator.exe
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Calculator.pdb
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Analytics.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Analytics.Real.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Exversion.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\LiveCharts.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Mathematics.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\NRTE.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Physics.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\WpfMath.dll
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Analytics.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Analytics.Real.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Exversion.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\LiveCharts.pdb
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\LiveCharts.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Mathematics.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\NRTE.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Physics.xml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Graph.g.cs
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Window1.g.cs
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Window2.g.cs
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\App.g.cs
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Graph.baml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\MainWindow.baml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Window1.baml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Window2.baml
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.GraphFunction.resources
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.exe
+C:\Users\keahnbrown\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.pdb
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Calculator.exe
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Calculator.pdb
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Analytics.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Analytics.Real.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Exversion.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\LiveCharts.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Mathematics.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\NRTE.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Physics.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\WpfMath.dll
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Analytics.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Analytics.Real.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Exversion.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\LiveCharts.pdb
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\LiveCharts.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Mathematics.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\NRTE.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\bin\Debug\Physics.xml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Graph.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Window1.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Window2.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\App.g.cs
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Graph.baml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\MainWindow.baml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Window1.baml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Window2.baml
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.GraphFunction.resources
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.exe
+C:\Users\mrkea\OneDrive - Tyndale Christian School\Year 12 School Work 2021\Digital Technologies\Calculator Project\Calculator Iteration 6\Calculator\obj\Debug\Calculator.pdb
